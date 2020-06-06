@@ -1,2 +1,3 @@
 this is to check git ftech and git pull features
 
+check git fetch
